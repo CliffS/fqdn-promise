@@ -1,0 +1,29 @@
+{
+  "name": "fqdn-promise",
+  "version": "0.1.0",
+  "description": "Get the fully qualified domain name via a Promise",
+  "main": "lib/fqdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "coffee -c -o lib src",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffS/fqdn-promise.git"
+  },
+  "keywords": [
+    "fqdn",
+    "fully qualified domein name",
+    "hostname"
+  ],
+  "author": "Cliff Stanford <cliff@may.be>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/CliffS/fqdn-promise/issues"
+  },
+  "homepage": "https://github.com/CliffS/fqdn-promise#readme",
+  "devDependencies": {
+    "coffeescript": "^2.3.2"
+  }
+}
