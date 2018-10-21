@@ -32,4 +32,4 @@ fqdn()
 ## Issues
 
 Please report any issues or make any suggestions at the
-[https://github.com/CliffS/fqdn-promise/issues](Github issues) page.
+[Github issues](https://github.com/CliffS/fqdn-promise/issues] page.
