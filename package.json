@@ -1,6 +1,6 @@
 {
   "name": "fqdn-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the fully qualified domain name via a Promise",
   "main": "lib/fqdn.js",
   "scripts": {
